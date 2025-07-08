@@ -41,6 +41,8 @@ A local desktop application that allows users to **securely encrypt and decrypt 
    pip install cryptography
 
 3. Run the app:
+
+   ```bash
    python login_window.py
    
 4. Create an account and start uploading & encrypting your files!
